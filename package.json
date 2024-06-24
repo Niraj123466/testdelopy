@@ -1,0 +1,20 @@
+{
+  "name": "first-sever-backend",
+  "version": "1.0.0",
+  "description": "my first backend server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "backend"
+  ],
+  "author": "Niraj More",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
